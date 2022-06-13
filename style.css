@@ -16,6 +16,14 @@ body {
         body {
             background: rgba(255, 84, 151, 0.40);
         }
+
+ol { list-style-type: none;
+  margin: 5px;
+  color: white;
+  Font-size: 15px;
+  padding:0;
+}
+
         #container {
             width: 300px;
             margin: 0 auto;
